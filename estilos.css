@@ -1,0 +1,75 @@
+#encabezado button {
+	padding:10px 12px;
+	font-size:14pt;
+	color:black;
+	font-family:calibri;
+	border:1px solid white;
+	cursor:pointer;
+	background-color:white;
+	transition:.3s;
+
+}
+#encabezado button:hover{
+	border: 1px solid red;
+	color:red;
+}
+
+#cuerpo table{
+	width:80%;
+	padding:20px;
+
+}
+
+#cuerpo table th{
+	width:32%;
+
+}
+#cuerpo table th img{
+	width:50%;
+}
+
+
+
+#cuerpo table th h1{
+	color:red;
+	font-family:Algerian;
+	font-size:15pt;
+}
+
+#cuerpo table th p{
+	color:black;
+	font-family:Algerian;
+	font-size:12pt;
+}
+
+#tabla3 table td h1{
+	color:orange;
+	font-family:Algerian;
+	font-size:14pt;
+}
+
+#tabla3 table td p{
+	font-family:Algerian;
+}
+
+#tabla3 button {
+	padding:10px 12px;
+	font-size:14pt;
+	color:black;
+	font-family:calibri;
+	border:1px solid white;
+	cursor:pointer;
+	background-color:white;
+	transition:.3s;
+
+}
+#tabla3 button:hover{
+	border: 1px solid red;
+	color:red;
+}
+
+.personal:hover {
+	filter:sepia(60%);
+
+	transition: filter .4s ease;
+}
